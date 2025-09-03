@@ -1,0 +1,18 @@
+body{
+justify-content: center;
+align-content: center;
+display: flex;
+background-color: #4c5f6077;
+}
+div{
+    border: 25px solid white;
+    background-color: white;
+    border-radius: 5%;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 150%;
+}
